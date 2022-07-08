@@ -23,7 +23,7 @@
     "pg": "^8.5.1",
     "qrcode": "^1.4.4",
     "socket.io": "2.3.0",
-    "whatsapp-web.js": "^1.12.5"
+    "whatsapp-web.js": "^1.17.0"
   },
   "engines": {
     "node": "v12.10.0"
